@@ -1,0 +1,4 @@
+﻿  com_icmp_ntv_NativeIcmpSocketImpl.cpp
+com_icmp_ntv_NativeIcmpSocketImpl.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 C:\Users\cpost\Desktop\traceroute\oschina\icmp_c++\icmp\Debug\icmp.lib 和对象 C:\Users\cpost\Desktop\traceroute\oschina\icmp_c++\icmp\Debug\icmp.exp
+  icmp.vcxproj -> C:\Users\cpost\Desktop\traceroute\oschina\icmp_c++\icmp\Debug\icmp.dll

@@ -1,0 +1,11 @@
+﻿  com_icmp_ntv_NativeIcmpSocketImpl.cpp
+  icmpsocket.cpp
+icmpsocket.cpp(53): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(2238): note: 参见“gethostbyname”的声明
+icmpsocket.cpp(143): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1850): note: 参见“inet_addr”的声明
+    正在创建库 C:\Users\cpost\Desktop\traceroute\oschina\icmp_c++\icmp\x64\Release\icmp.lib 和对象 C:\Users\cpost\Desktop\traceroute\oschina\icmp_c++\icmp\x64\Release\icmp.exp
+  正在生成代码
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  icmp.vcxproj -> C:\Users\cpost\Desktop\traceroute\oschina\icmp_c++\icmp\x64\Release\icmp.dll
